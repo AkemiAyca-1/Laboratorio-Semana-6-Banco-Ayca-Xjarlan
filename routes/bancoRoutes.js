@@ -17,3 +17,5 @@ router.get('/usuario/:nombre_user', bancoController.getUsuarioInfo);
 router.get('/tarjeta/:num_tarjeta', bancoController.getTarjetaInfo);
 
 module.exports = router;
+
+
