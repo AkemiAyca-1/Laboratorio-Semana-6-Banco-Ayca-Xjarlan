@@ -1,0 +1,25 @@
+{
+  "name": "laboratorio-semana-6-banco-ayca-xjarlan",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkemiAyca-1/Laboratorio-Semana-6-Banco-Ayca-Xjarlan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AkemiAyca-1/Laboratorio-Semana-6-Banco-Ayca-Xjarlan/issues"
+  },
+  "homepage": "https://github.com/AkemiAyca-1/Laboratorio-Semana-6-Banco-Ayca-Xjarlan#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.15.3"
+  }
+}
